@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="sqllex-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 159.87 119.62" style="enable-background:new 0 0 159.87 119.62;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#head_1_);stroke:#000000;stroke-width:4.1;stroke-miterlimit:100;}
+	.st1{fill:#00E90D;stroke:#000000;stroke-width:4.1;stroke-miterlimit:100;}
+</style>
+<g id="group">
+	<linearGradient id="head_1_" gradientUnits="userSpaceOnUse" x1="79.937" y1="9.0861" x2="79.937" y2="110.536">
+		<stop  offset="0" style="stop-color:#FAD126"/>
+		<stop  offset="1" style="stop-color:#FF544F"/>
+	</linearGradient>
+	<path id="head" class="st0" d="M147.76,9.09L79.94,34.4L12.11,9.09l32.6,38.03l-32.6,12.67l67.82,50.75l67.82-50.75L115.1,47.12
+		L147.76,9.09z M105.35,59.07l-16.9-5.01l-0.02,0.05l0,0l-8.5,23.17l-8.45-23.25L54.5,59.07l-9.79-11.63l9.79-3.45l25.44,7.3
+		l25.41-7.3l9.75,3.39L105.35,59.07z"/>
+	<polygon id="eye-1_1_" class="st1" points="70.62,51.63 71.52,54.12 80,51.6 69.48,48.48 	"/>
+	<polygon id="eye-1" class="st1" points="90.49,48.49 80,51.6 88.43,54.1 88.45,54.05 88.45,54.05 89.36,51.56 	"/>
+</g>
+</svg>
